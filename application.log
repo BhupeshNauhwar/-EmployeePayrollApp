@@ -1,0 +1,25 @@
+2025-03-07 13:06:35 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Starting EmployeePayrollAppApplication using Java 18.0.2.1 with PID 8172 (C:\Users\asus\Desktop\EmployeePayrollApp\target\classes started by root in C:\Users\asus\Desktop\EmployeePayrollApp)
+2025-03-07 13:06:35 [restartedMain] DEBUG c.e.E.EmployeePayrollAppApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-07 13:06:35 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-07 13:06:39 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-07 13:06:40 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Started EmployeePayrollAppApplication in 4.868 seconds (process running for 5.341)
+2025-03-07 13:06:40 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Employee Payroll Application has started successuflly 
+2025-03-07 13:06:51 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Fetching all employees 
+2025-03-07 13:06:51 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Total employees found:3
+2025-03-07 13:08:07 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Starting EmployeePayrollAppApplication using Java 18.0.2.1 with PID 13568 (C:\Users\asus\Desktop\EmployeePayrollApp\target\classes started by root in C:\Users\asus\Desktop\EmployeePayrollApp)
+2025-03-07 13:08:07 [restartedMain] DEBUG c.e.E.EmployeePayrollAppApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-07 13:08:07 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-07 13:08:10 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-07 13:08:10 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Started EmployeePayrollAppApplication in 4.466 seconds (process running for 4.93)
+2025-03-07 13:08:10 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Employee Payroll Application has started successuflly 
+2025-03-07 13:08:22 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Fetching all employees 
+2025-03-07 13:08:22 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Total employees found:3
+2025-03-07 13:38:56 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m46s510ms773µs800ns).
+2025-03-07 13:44:50 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Starting EmployeePayrollAppApplication using Java 18.0.2.1 with PID 4764 (C:\Users\asus\Desktop\EmployeePayrollApp\target\classes started by root in C:\Users\asus\Desktop\EmployeePayrollApp)
+2025-03-07 13:44:50 [restartedMain] DEBUG c.e.E.EmployeePayrollAppApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-07 13:44:50 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-07 13:44:54 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-07 13:44:54 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Started EmployeePayrollAppApplication in 5.163 seconds (process running for 5.769)
+2025-03-07 13:44:54 [restartedMain] INFO  c.e.E.EmployeePayrollAppApplication - Employee Payroll Application has started successuflly 
+2025-03-07 13:45:00 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Fetching all employees 
+2025-03-07 13:45:00 [http-nio-8080-exec-2] INFO  c.e.E.controller.EmployeeController - Total employees found:3
