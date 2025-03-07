@@ -1,5 +1,6 @@
 package com.example.EmployeePayrollApp.services;
 
+import com.example.EmployeePayrollApp.interfaces.EmployeeInterface;
 import com.example.EmployeePayrollApp.model.Employee;
 import com.example.EmployeePayrollApp.dto.EmployeeDTO;
 import com.example.EmployeePayrollApp.repository.EmployeeRepository;
@@ -9,7 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class EmployeeService {
+public class EmployeeService implements EmployeeInterface {
 
     @Autowired
     private EmployeeRepository employeeRepository;
