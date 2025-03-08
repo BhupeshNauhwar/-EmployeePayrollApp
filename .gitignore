@@ -34,5 +34,5 @@ build/
 
 application.log
 applicationDev.log
-ApplicationStage.log
+ApplicationStagging.log
 applicationProd.log
